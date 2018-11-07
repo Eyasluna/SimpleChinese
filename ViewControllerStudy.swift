@@ -3,7 +3,7 @@
 //  Simple Chinese
 //
 //  Created by Yibo Fu on 7/11/17.
-//  Copyright © 2017 Luming Wang. All rights reserved.
+//  Copyright © 2017 Yibo Fu. All rights reserved.
 //
 
 import UIKit

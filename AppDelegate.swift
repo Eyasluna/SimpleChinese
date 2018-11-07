@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Simple Chinese
 //
-//  Created by Luming Wang on 7/10/17.
-//  Copyright © 2017 Luming Wang. All rights reserved.
+//  Created by Yibo Fu on 7/10/17.
+//  Copyright © 2017 Yibo Fu. All rights reserved.
 //
 
 import UIKit
